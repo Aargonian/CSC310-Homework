@@ -1,0 +1,2 @@
+The program is implemented using a single Python source file, and can be run quite easily by just calling py3 heap.py
+Alternatively, the source file can be loaded into your preferred IDE and run directly from there.

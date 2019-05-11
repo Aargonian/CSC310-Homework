@@ -1,0 +1,7 @@
+All of the programs are Java files, and need to be run from a complete java environment. The easiest way is
+to import them into an IDE, such as Netbeans, IntelliJ IDEA, or any other competing IDE. Alternatively,
+the programs can be run from the command line after compiling them with the 'javac' command, followed by the
+'java' command
+
+Note that for the CMD environment to function properly, both the java and javac commands should be in your PATH.
+
